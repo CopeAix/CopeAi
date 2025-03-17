@@ -1,4 +1,4 @@
-![Cope AI Banner](banner.png)
+![Cope AI Banner](Banner.png)
 
 # Cope AI
 
