@@ -27,5 +27,5 @@ Hosted on [Hugging Face Spaces](https://huggingface.co/spaces/[your-username]/co
 
 1. **Clone the Repo**
    ```bash
-   git clone https://github.com/[your-username]/cope-ai.git
+   git clone https://github.com/[CopeAix]/cope-ai.git
    cd cope-ai
