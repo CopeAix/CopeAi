@@ -1,5 +1,7 @@
 ![Cope AI Banner](Banner.png)
 
+[**Twitter**](https://x.com/CopeAIx) | [**Website**](https://memeflux-copeai.hf.space/)
+
 # Cope AI
 
 Cope AI is a chatbot designed to help users cope with stress, emotional turbulence, and the wild ride of meme coin gambling—born from the chaotic inspiration of [pump.fun](https://pump.fun). Built with Gradio and powered by OpenAI’s GPT-3.5-turbo, it’s a no-nonsense tool for venting and finding calm, wrapped in a clean, modern interface.
